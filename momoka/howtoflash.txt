@@ -1,0 +1,1 @@
+Hold 4 and 5 (top two keys on left half) to enter DFU mode
